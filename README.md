@@ -19,21 +19,17 @@ These materials are intended to enhance the learning experience for readers of t
 
 ## 📂 Repository Structure
 Chapter_01/
-chapter_exercises.ipynb
-solutions.ipynb
+- chapter_codes.ipynb: Contains all code examples explained and developed throughout the chapter.
+- chapter_solutions.ipynb (or similar file): Provides complete solutions to the end-of-chapter questions.
+- supplement.txt / supplement.pdf: Includes additional reference material and supporting information required to solve selected end-of-chapter problems.
 
 Chapter_02/
-chapter_exercises.ipynb
-solutions.ipynb
+- chapter_codes.ipynb: Contains all code examples explained and developed throughout the chapter.
+- chapter_solutions.ipynb (or similar file): Provides complete solutions to the end-of-chapter questions.
+- supplement.txt / supplement.pdf: Includes additional reference material and supporting information required to solve selected end-of-chapter problems.
 
 Chapter_03/
 ...
-
-Each chapter folder contains:
-- **Exercises** – Problems from the book (where applicable)
-- **Solutions** – Complete answers with code and explanations
-
----
 
 ## 📖 How to Use This Repository
 
