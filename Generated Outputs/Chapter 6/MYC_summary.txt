@@ -1,0 +1,9 @@
+Sequence: NC_000008.11:127735434-127742951 MYC [organism=Homo sapiens] [GeneID=4609] [chromosome=8]
+Length: 7518
+GC Content: 51.53%
+AT Content: 48.47%
+
+Sequence: NC_060932.1:128862888-128870405 MYC [organism=Homo sapiens] [GeneID=4609] [chromosome=8]
+Length: 7518
+GC Content: 51.53%
+AT Content: 48.47%
