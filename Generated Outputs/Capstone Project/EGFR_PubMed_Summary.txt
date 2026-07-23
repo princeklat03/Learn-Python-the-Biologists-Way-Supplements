@@ -1,0 +1,143 @@
+Literature Summary: EGFR-related PubMed Articles
+============================================================
+
+Article 1
+----------------------------------------
+PubMed ID: 42490038
+Title: Persistent kidney dysfunction after leptospirosis-associated acute kidney injury: a case series from coastal Karnataka, India.
+Authors:
+Sethi A, Prabhu AR, Shashidhar V, Gupta N
+Journal: International urology and nephrology
+Year: 2026 Jul 23
+
+Abstract:
+BACKGROUND: Leptospirosis has been infrequently associated with persistent kidney dysfunction fulfilling the criteria for chronic kidney disease (CKD). However, the entity remains poorly characterised. This study aimed to describe the clinical profile, laboratory findings, treatment requirements, and kidney outcomes of patients without recognised CKD risk factors who had persistent kidney dysfunction fulfilling CKD criteria at three-month follow-up after leptospirosis-associated Acute Kidney Injury (AKI). METHODS: This descriptive case series was nested within a prospective cohort of hospitalised patients with leptospirosis admitted to a tertiary care hospital in coastal Karnataka, India, between April 2025 and March 2026. Patients with leptospirosis-associated AKI who fulfilled Kidney Disease: Improving Global Outcomes (KDIGO) criteria for CKD at three-month follow-up were included. Leptospirosis was confirmed by immunoglobulin M (IgM) enzyme-linked immunosorbent assay or polymerase chain reaction (PCR). Patients with known CKD or recognised clinical risk factors for CKD, including diabetes mellitus, hypertension, family history of kidney disease, structural renal abnormalities, or other identifiable causes of kidney disease, were excluded. Clinical features, laboratory parameters, treatment details, organ support requirements, and kidney outcomes were recorded. RESULTS: Among 101 hospitalised patients with leptospirosis, 67 (66.3%) developed AKI. Of these, 7 (10.4%) died in hospital, and 17 (28.3%) of the 60 survivors did not undergo serum creatinine testing at three-month follow-up. Among the remaining 43 evaluable survivors without known CKD or recognised CKD risk factors, 6 (14.0%) fulfilled criteria for CKD at three-month follow-up. All six patients had KDIGO Stage 3 AKI during admission. Admission serum creatinine ranged from 3.19 to 8.63 mg/dL, while peak serum creatinine ranged from 4.92 to 11.84 mg/dL. Jaundice was present in 4/6, 66.7%, of patients, leukocytosis was observed in all patients, and thrombocytopenia was present in all patients. Pulmonary complications were common, with pleural effusion in 4/6, 66.7%, patients, acute respiratory distress syndrome in 1/6, 16.7%, and diffuse alveolar haemorrhage in 1/6, 16.7%. Myocarditis was noted in 2/6, 33.3%, of patients. Three patients required haemodialysis, and three required mechanical ventilation. At discharge, serum creatinine remained elevated in all six patients, ranging from 1.85 to 5.15 mg/dL. At three-month follow-up, estimated glomerular filtration rate (eGFR) ranged from 44 to 59 mL/min/1.73 m(2); five patients were classified as CKD Stage 3a and one as CKD Stage 3b. CONCLUSIONS: Severe leptospirosis-associated AKI may be followed by persistent kidney dysfunction at three months despite improvement in serum creatinine from peak values. Persistent creatinine elevation at discharge may be an important clinical warning sign. Patients with severe leptospiral AKI, particularly those with KDIGO Stage 3 AKI, dialysis requirement, persistent discharge creatinine elevation, or multiorgan involvement, may benefit from structured post-discharge kidney follow-up, including eGFR reassessment, urinalysis, proteinuria assessment, blood pressure monitoring, and, where feasible, tubular function testing.
+
+============================================================
+
+Article 2
+----------------------------------------
+PubMed ID: 42490000
+Title: In vivo Fluorescent Molecular Imaging Using Nanobodies Labeled with Next-Generation FNIR-Tag-Dyes.
+Authors:
+Chigoho DM, Stroet MCM, Salien J, Pollenus S, Li DH, Schnermann M, Hernot S
+Journal: Molecular imaging and biology
+Year: 2026 Jul 23
+
+Abstract:
+PURPOSE: Fluorescently labeled Nanobodies (Nbs) provide rapid, specific, and high-contrast molecular imaging capabilities, making them well-suited for applications such as fluorescence-guided surgery. As dye properties can substantially influence tracer performance, this study evaluated three next-generation FNIR-Tag dyes, each conjugated to an anti-EGFR Nb. PROCEDURES: The anti-EGFR Nb 7D12 was conjugated to FNIR-Tag-1.0, FNIR-Tag-766 or FNIR-Tag-804, and characterized in vitro. In vivo imaging and biodistribution studies were performed to assess pharmacokinetics, tumor uptake, tumor-to-background ratios, contrast-to-noise ratios, and renal clearance. RESULTS: All three Nb-based tracers exhibited similar overall pharmacokinetic behavior, characterized by fast tumor accumulation, rapid clearance from blood and non-target tissues, and predominant renal elimination. 7D12-FNIR-Tag-1.0 demonstrated slightly higher tumor uptake, whereas 7D12-FNIR-Tag-766 produced marginally improved tumor-to-background and contrast-to-noise ratios. In contrast, 7D12-FNIR-Tag-804 yielded significantly lower tumor signal intensity, although its imaging contrast remained comparable due to proportionally reduced background fluorescence. Despite differences in dye net charge, no substantial variation in kidney retention was observed over 24 h. Microscopic analysis revealed, however, distinct renal handling: 7D12-FNIR-Tag-766 showed partial endosomal internalization within proximal tubule cells, while 7D12-FNIR-Tag-1.0 remained primarily luminal. CONCLUSIONS: FNIR-Tag-labeled Nbs enable effective tumor visualization at 1 h post-injection. Although overall biodistribution was comparable across dyes, differences in tissue uptake, intrinsic brightness, and compatibility with imaging system optics can influence detection sensitivity and should inform dye selection for clinical imaging applications.
+
+============================================================
+
+Article 3
+----------------------------------------
+PubMed ID: 42489861
+Title: The efficacy and safety of benzbromarone and febuxostat in combined-type hyperuricemia: a single-center study.
+Authors:
+Zhou B, Ye R, Zhang L, Fan G, Yang L, Jiang L, Sun Y
+Journal: Clinical rheumatology
+Year: 2026 Jul 23
+
+Abstract:
+OBJECTIVES: To explore the short-term urate-lowering efficacy and safety of benzbromarone versus febuxostat in patients with combined-type hyperuricemia. METHODS: This retrospective study included treatment-naive adults with combined-type hyperuricemia (24-h urinary uric acid > 600 mg/24h and fractional excretion of uric acid < 5.5%) who initiated benzbromarone (25 mg/day) or febuxostat (20 mg/day). The primary endpoint was the proportion achieving serum urate (SUA) < 360 micromol/L at 4 weeks. Secondary endpoints included absolute SUA reduction and safety. Multivariable logistic and Cox regression models were performed with the adjustment of baseline SUA, estimated glomerular filtration rate (eGFR), and concomitant sodium bicarbonate use. RESULTS: 104 males were enrolled (benzbromarone 49, febuxostat 55). The unadjusted 4-week target achievement rate was higher with benzbromarone (53.1% vs. 27.3%, p = 0.013). After multivariable adjustment, this difference was no longer significant (adjusted OR 2.20, 95% CI 0.88-5.46; p = 0.090). Sodium bicarbonate use was more frequent with benzbromarone (63.3% vs. 32.7%, p = 0.004) and was associated with target attainment (adjusted OR 2.46, p = 0.048). Among 66 patients with extended follow-up, the between-group difference attenuated over time, with comparable cumulative rates by week 12 (84.4% vs. 73.5%, p = 0.438). Both treatments were well tolerated without serious adverse events (SAEs) reported. CONCLUSION: Benzbromarone and febuxostat demonstrated different early serum urate target attainment rates at 4 weeks, with a numerically higher unadjusted rate observed in the benzbromarone group that was attenuated and no longer statistically significant after multivariable adjustment. Cumulative target achievement converged over time among patients with extended follow-up. These findings require confirmation in prospective studies with extended follow-up to evaluate long-term clinical outcomes. Key Points * Low-dose benzbromarone showed a numerically higher 4-week serum urate target attainment rate than febuxostat, although this difference was not statistically significant after adjustment for confounders. * Concomitant sodium bicarbonate use was associated with earlier serum urate target attainment, although this association may reflect both the potential contribution of urinary alkalinization and treatment-selection patterns in routine clinical practice. * Cumulative target achievement rates converged by week 12, suggesting comparable sustained efficacy with continued therapy. * Both treatments were well tolerated, with no serious adverse events reported over 12 weeks.
+
+============================================================
+
+Article 4
+----------------------------------------
+PubMed ID: 42489810
+Title: Large-Scale Plasma Proteomics Profiles for Predicting Atrial Fibrillation Associated Stroke Risk : Type of manuscript: Original Research.
+Authors:
+Huang S, Feng X, Wu H, Liang R, Gao Y, Wang Z, Tang B, Wu J, Fang J, Yang Z, Tiemuerniyazi X, Lin J, Duan Y, Xu W, Mao H, Zhao W, Hu Z, Duan C, Feng W
+Journal: Translational stroke research
+Year: 2026 Jul 23
+
+Abstract:
+BACKGROUND: Stroke is a major complication of atrial fibrillation (AF), and risk prediction using the congestive heart failure, hypertension, age, diabetes, stroke, vascular disease, and sex category score (CHA(2)DS(2)-VASc) remains limited by residual heterogeneity. We aimed to identify plasma proteins associated with post-AF stroke and evaluate whether a protein score provides incremental predictive information beyond CHA(2)DS(2)-VASc. METHODS: We analyzed 709 AF participants from the UK Biobank Pharma Proteomics Project, with 76 incident strokes. Stroke-related proteins were identified using multivariable Cox regression, least absolute shrinkage and selection operator (LASSO) Cox regression, and machine-learning approaches. A five-protein score was constructed, and its incremental value beyond CHA(2)DS(2)-VASc was assessed by discrimination, calibration, reclassification, clinical net benefit, and 1000-bootstrap internal validation. Mendelian randomization served as supportive genetic evidence. RESULTS: Five core proteins were identified: epidermal growth factor receptor (EGFR), V-type proton ATPase subunit D (ATP6V1D), neurotrophin 4 (NTF4), amnionless (AMN), and discoidin, CUB and LCCL domain-containing protein 2 (DCBLD2). Adding the five-protein score to CHA(2)DS(2)-VASc improved discrimination, increasing the concordance index from 0.681 to 0.768. The combined model had 3-, 5-, and 8-year receiver operating characteristic areas of 0.799, 0.775, and 0.806, respectively, and showed favorable five-year prediction error and calibration, with a Brier score of 0.0347, calibration intercept of -0.068, and calibration slope of 0.968. The score improved continuous net reclassification improvement (0.459; P = 0.028). Mendelian randomization provided supportive genetic evidence for AMN, EGFR, and DCBLD2. CONCLUSIONS: The five-protein score provided incremental predictive information beyond CHA(2)DS(2)-VASc for post-AF stroke risk assessment.
+
+============================================================
+
+Article 5
+----------------------------------------
+PubMed ID: 42489683
+Title: Multikinase Inhibition with Tinengotinib in Advanced Solid Tumors: Results from a Multicenter Phase Ib/II Trial.
+Authors:
+Piha-Paul SA, Liao CY, Dayyani F, Gabrail NY, Kazmi SMA, Lavasani SM, Hennessy K, Ni S, Sun C, Wang H, Peng P, Wu F, Javle MM, Fan J, Goel S
+Journal: Clinical cancer research : an official journal of the American Association for Cancer Research
+Year: 2026 Jul 23
+
+Abstract:
+PURPOSE: Tinengotinib, a multikinase inhibitor targeting Aurora kinases A/B, fibroblast growth factor receptors (FGFRs) 1-3, vascular endothelial growth factor receptor-2, and Janus kinases 1-2, was evaluated in this phase Ib/II study to assess safety, pharmacokinetics, efficacy, and genomic correlates of response and resistance in patients with advanced solid tumors. METHODS: Patients with advanced/metastatic solid tumors lacking standard treatment options were enrolled at seven sites in the United States (NCT04742959). Tinengotinib was administered at 12 mg once daily in Arm A and at multiple dose levels/dosing schedules in Arm C. RESULTS: Among 197 patients receiving tinengotinib, treatment-related treatment-emergent adverse events occurred in 160 (81.2%) patients, most commonly hypertension. Hyperphosphatemia and ocular toxicities were uncommon. Clinical benefit was achieved by 33/159 (20.8%) evaluable patients, including 1 complete response, 20 partial responses, and 12 stable diseases >/=6 months. Antitumor activity was most pronounced with 10‑mg and 12‑mg dose levels. The objective response rate was 33.3%, 30.0%, and 13.0% in prostate cancer (n=15), breast cancer (n=20), and cholangiocarcinoma (n=23), respectively. Pharmacokinetic analyses supported the 10‑mg once‑daily regimen. Exploratory genomic analyses identified potential molecular correlations of response, including FGFR2 fusions in cholangiocarcinoma responders. Additional observations in breast cancer, including ROS1 alterations, were exploratory and should be considered hypothesis-generating. Exploratory analyses also suggested associations between EGFR or MLL mutations in cholangiocarcinoma and MYC alterations in prostate cancer with shorter progression-free survival, consistent with emerging evidence linking MYC-driven lineage plasticity to androgen receptor-independent disease biology. Reductions in circulating tumor DNA variant allele frequency further supported pharmacodynamic target engagement. CONCLUSIONS: Tinengotinib demonstrated manageable toxicity with antitumor activity across advanced solid tumors, with infrequent hyperphosphatemia and ocular toxicities. Integrated pharmacokinetic-biomarker analyses support the continued clinical development of tinengotinib and the exploration of biomarker‑informed precision oncology strategies.
+
+============================================================
+
+Article 6
+----------------------------------------
+PubMed ID: 42489649
+Title: Recent advances in EGFR-targeted therapies for non-small cell lung cancer.
+Authors:
+Lucente L, Barcellini L, Ramella Pollone B, Filipazzi CL, Coco S, Puppo M, Marconi S, Santamaria S, Tagliamento M, Rossi G, Dellepiane C, Bennicelli E, Barletta G, Zinoli L, Genova C
+Journal: Expert opinion on pharmacotherapy
+Year: 2026 Jul 23
+
+Abstract:
+INTRODUCTION: The discovery of epidermal growth factor receptor (EGFR) mutations has deeply reshaped the treatment of non-small cell lung cancer (NSCLC). Throughout the last years, third-generation tyrosine kinase inhibitor (TKI) osimertinib in monotherapy has been the standard of care; however, resistance limits durable responses, necessitating novel combinations and sequencing strategies. AREAS COVERED: This review discusses recent advances in EGFR-targeted therapies within the molecular landscape of classical and uncommon EGFR mutations, focusing on frontline intensification strategies in metastatic disease - specifically TKI combinations with chemotherapy (FLAURA2) or bispecific antibodies (MARIPOSA) - and emerging post-progression strategies to overcome acquired resistance mechanisms. A comprehensive literature search (January 2021-March 2026) was conducted via PubMed, and recent major oncology conference proceedings (ASCO, ESMO, WCLC, ELCC) and clinical trial registries for ongoing studies. EXPERT OPINION: The therapeutic landscape is shifting from a uniform frontline TKI monotherapy approach toward biomarker-driven, risk-stratified, intensification. High-risk patients (e.g. TP53 co-mutations, L858R) derive significant benefit from combination regimens, whereas mono-TKI remains appropriate for favorable prognostic subgroups. Future progress relies on validating predictive biomarkers - particularly circulating tumor DNA (ctDNA) dynamics - to guide adaptive treatment strategies, balancing efficacy gains against toxicity and costs, while ensuring equitable global access to novel therapies.
+
+============================================================
+
+Article 7
+----------------------------------------
+PubMed ID: 42489643
+Title: DF-S4: Disentangled FiLM-Conditioned Molecular Generation Using the S4 Architecture.
+Authors:
+Peng Y, Jiang Y, Quan B, Gong K, Yang Y
+Journal: Journal of chemical information and modeling
+Year: 2026 Jul 23
+
+Abstract:
+Balancing target-specific biological affinity with drug-likeness remains a central challenge in de novo molecular design, where existing generative models often exhibit limited controllability or reduced structural diversity. Here, we present DF-S4, a conditional molecular generation framework based on Structured State Space Models (S4), which addresses this limitation through a disentangled latent representation and hierarchical feature-wise linear modulation (FiLM). By decoupling structural and property variables and injecting conditional signals across multiple representation levels, DF-S4 enables fine-grained and stable multi-objective control beyond conventional input-level conditioning. Evaluated via a rigorous progressive multi-denominator auditing framework across three kinase targets (EGFR, BRAF, and FGFR1), DF-S4 exhibits robust target-steering performance, yielding favorable intradomain active ratios (74.2-83.9%) while maintaining high novelty (>95%) and competitive internal diversity ( approximately 0.85). Furthermore, DF-S4 shifts the multi-objective Pareto Frontier toward regions of simultaneous high apparent affinity and drug-likeness, mitigating the distributional-trapping trade-offs commonly observed in prior approaches. Molecular docking analyses confirm the physical plausibility of generated candidates, yielding stronger binding affinities than reference inhibitors. Finally, comprehensive ablation studies and latent space dependence analyses mathematically validate that both explicit latent disentanglement and hierarchical FiLM modulation are critical for robust feature isolation, tighter property alignment, and generative stability.
+
+============================================================
+
+Article 8
+----------------------------------------
+PubMed ID: 42489252
+Title: Targeting the miR-224-5p/PTEN pathway: A previously under-characterized strategy to attenuate mesangial cell injury and predict prognosis in diabetic nephropathy.
+Authors:
+Gao Y, Zhang X, Lu P, Wang Q
+Journal: Journal of diabetes investigation
+Year: 2026 Jul 23
+
+Abstract:
+AIM: To ascertain the expression status and clinical performance of miR-224-5p in diabetic nephropathy (DN), alongside its molecular mechanism of regulating mesangial cell injury by targeting phosphatase and tensin homolog (PTEN). METHODS: Serum miR-224-5p and PTEN mRNA expression were detected in DN patients. Logistic regression was used to analyze independent risk indexes for the poor clinical outcomes in DN. Functional gain/loss and rescue experiments were performed. Target relationships were validated through dual-luciferase reporter assays. RESULTS: Serum miR-224-5p expression was significantly increased in DN patients (P < 0.001). It displayed moderate diagnostic performance for discriminating DN from T2DM (AUC = 0.796), and good predictive value (AUC = 0.833) for predicting 2-year adverse renal outcomes. MiR-224-5p level was significantly higher in patients with an unfavorable prognosis than those with a favorable prognosis (P < 0.001). Elevated miR-224-5p was identified as an independent risk factor for eGFR decline >/=30% (P = 0.001), but this finding was not applicable to end-stage renal disease (ESRD) due to insufficient case numbers for multivariate analysis. MiR-224-5p inhibition protected high-glucose mesangial cells via PTEN upregulation, an effect reversed by si-PTEN. CONCLUSION: Increased miR-224-5p expression may serve as a potential circulating biomarker for predicting eGFR decline in DN patients, but these findings are preliminary and require validation in independent cohorts using standardized exogenous spike-in normalization before clinical application. The independence of this association was only demonstrated for the eGFR decline >/=30% endpoint and not for ESRD due to limited statistical power.
+
+============================================================
+
+Article 9
+----------------------------------------
+PubMed ID: 42488939
+Title: The extracellular protease AdamTS-B is a dosage-sensitive regulator of unicellular tracheal branch morphogenesis.
+Authors:
+Thuringer A, Steinmetz E, Abdullahi M, Ismat A
+Journal: Biology open
+Year: 2026 Jul 23
+
+Abstract:
+Epithelial tube morphogenesis requires coordinated interactions between epithelial cells and their extracellular environment, yet the extracellular mechanisms that regulate this process remain poorly understood. The Drosophila trachea provides an excellent model for investigating how extracellular remodeling contributes to epithelial tube morphogenesis. AdamTS-B, an extracellular ADAMTS protease, is expressed in the embryonic trachea from early to late stages of tracheal development. Loss of AdamTS-B caused mild defects in unicellular branch organization, whereas overexpression produced ectopic cyst-like structures. Additionally, AdamTS-B localized intracellularly and to basal protrusions of tracheal cells. Constitutively active EGFR phenocopied the AdamTS-B overexpression phenotype. Together, our findings identify AdamTS-B as a dosage-sensitive regulator of unicellular tracheal branch morphogenesis and support a model in which extracellular proteolysis contributes to epithelial tube architecture. The phenotypic similarity between AdamTS-B overexpression and constitutive EGFR activation further suggests a potential functional relationship between extracellular proteolysis and EGFR signaling during tracheal development.
+
+============================================================
+
+Article 10
+----------------------------------------
+PubMed ID: 42488885
+Title: Solvent and catalyst-free mechanochemical synthesis of indenyl-derived thiazolone imine, thiazolidin-4-one and thiazolidin-4-ol hybrids: anticancer evaluation and molecular modeling studies.
+Authors:
+Mohite SS, Bangade VM, Shaikh AP, Popatkar BB
+Journal: RSC medicinal chemistry
+Year: 2026 May 28
+
+Abstract:
+To shed light on the significance of indenyl-derived thiazole derivatives in the advancement of cancer medication and to contribute to therapeutic innovation, we present a facile, effective and sustainable protocol for the synthesis of novel indenyl-thiazol-2-imine, indenyl-thiazolidin-4-one and indenyl-thiazolidin-4-ol derivatives. A one-pot, multicomponent reaction between 5-aminoindane and phenyl isothiocyanate proceeds effectively under neat grinding reaction conditions to generate thiocarbamide in situ. This formed intermediate upon treatment with 2-bromoacetophenone, ethyl bromoacetate and 3-bromo-1,1,1-trifluoropropan-2-one affords (E)-N-(2,3-dihydro-1H-inden-5-yl)-3,4-diphenylthiazol-2(3H)-imine, (E)-2-((2,3-dihydro-1H-inden-5-yl)imino)-3-phenylthiazolidin-4-one and (E)-2-((2,3-dihydro-1H-inden-5-yl)imino)-3-phenyl-4-(trifluoromethyl)thiazolidin-4-ol, respectively. Some of the synthesized compounds were evaluated for their in vitro anticancer activities, and surprisingly, the compound (E)-2-((2,3-dihydro-1H-inden-5-yl)imino)-3-(4-nitrophenyl)-4-(trifluoromethyl)-thiazolidin-4-ol (8c) was found to be the most active against MCF-7 breast cancer/A-549 lung cancer and non-cancerous normal VERO cells with average GI(50) values of 0.1 muM and 0.9 muM, respectively, with reference to adriamycin. Molecular docking studies revealed that compound (8c) exhibits a favorable binding mode, supporting its potential as an EGFR inhibitor. Consistently, molecular dynamics simulations showed that compound (8c) maintained consistent ATP-pocket interactions without abnormal flexibility, further underscoring its promise as a potent EGFR targeting agent. In a nutshell, the proposed procedure offers an alternative way to the existing method for the synthesis of the titled compounds with effective biological applications.
+
+============================================================
+
