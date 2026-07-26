@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this book or its supplementary materials, please cite this work."
+title: "Learn Python the Biologist's Way"
+authors:
+  - family-names: "Lat"
+    given-names: "Prince Kumar"
+year: 2026
+type: book
+license: "Custom Educational Use License"
+
+preferred-citation:
+  type: book
+  title: "Learn Python the Biologist's Way"
+  authors:
+    - family-names: "Lat"
+      given-names: "Prince Kumar"
+  year: 2026
+  publisher: "Self-published"
+  url: "YOUR_BOOK_URL"
