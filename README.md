@@ -4,6 +4,7 @@ This repository contains supplementary materials, exercise solutions, and suppor
 
 **_Learn Python the Biologist’s Way_**
 
+📘 **Book:** [Learn Python the Biologist’s Way](YOUR_BOOK_URL)
 ---
 
 ## 📌 Purpose
@@ -18,18 +19,62 @@ These materials are intended to enhance the learning experience for readers of t
 ---
 
 ## 📂 Repository Structure
-Chapter_01/
-- chapter_codes.ipynb: Contains all code examples explained and developed throughout the chapter.
-- chapter_solutions.ipynb (or similar file): Provides complete solutions to the end-of-chapter questions.
-- supplement.txt / supplement.pdf: Includes additional reference material and supporting information required to solve selected end-of-chapter problems.
 
-Chapter_02/
-- chapter_codes.ipynb: Contains all code examples explained and developed throughout the chapter.
-- chapter_solutions.ipynb (or similar file): Provides complete solutions to the end-of-chapter questions.
-- supplement.txt / supplement.pdf: Includes additional reference material and supporting information required to solve selected end-of-chapter problems.
+The companion repository is organized into the following folders:
 
-Chapter_03/
-...
+```
+Learn-Python-the-Biologists-Way-Supplements/
+
+├── Capstone Project Solution/
+│   └── Capstone_Project_Solution.ipynb
+│
+├── Chapter Wise Solution/
+│   ├── Answer_Chapter_3.pdf
+│   ├── Answer_Chapter_5.ipynb
+│   ├── Answer_Chapter_9.pdf
+│   └── ...
+│
+├── Class Notebooks/
+│   ├── Chapter_3.ipynb
+│   ├── Chapter_4.ipynb
+│   ├── Chapter_5.ipynb
+│   └── ...
+│
+├── Companion Resources/
+│   ├── Chapter 6/
+│   │   └── additional files (.csv, .fna, .fa, .txt, etc.)
+│   ├── Chapter 13/
+│   │   └── additional files
+│   ├── ...
+│   └── Capstone Project/
+│       └── required input files
+│
+└── Generated Outputs/
+    ├── Chapter 6/
+    │   └── generated files
+    ├── Chapter 13/
+    │   └── generated files
+    ├── ...
+    └── Capstone Project/
+        └── generated results
+```
+
+### Folder Description
+
+- **Capstone Project Solution**  
+  Contains the complete Jupyter Notebook solution for the final capstone project, integrating concepts learned throughout the book.
+
+- **Chapter Wise Solution**  
+  Contains solutions to end-of-chapter exercises. Depending on the chapter requirements, solutions are provided as PDF documents or Jupyter Notebooks.
+
+- **Class Notebooks**  
+  Contains chapter-wise Jupyter Notebooks with all code examples demonstrated throughout the book.
+
+- **Companion Resources**  
+  Contains supporting files required for selected exercises and activities, including biological sequence files (`.fna`, `.fa`), datasets (`.csv`), and reference files (`.txt`).
+
+- **Generated Outputs**  
+  Contains files generated during execution of the code examples and activities. The folder structure mirrors the Companion Resources folder to make it easier to locate outputs associated with each chapter or the capstone project.
 
 ## 📖 How to Use This Repository
 
@@ -55,4 +100,5 @@ If you are reading the book, you already have access to this repository via the 
 
 ## 📄 License
 
-All content is provided for educational use only.
+This repository is provided for educational and non-commercial use.  
+See the [LICENSE](LICENSE) file for complete terms.
