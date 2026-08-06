@@ -4,7 +4,10 @@ This repository contains supplementary materials, exercise solutions, and suppor
 
 **_Learn Python the Biologist’s Way_**
 
-📘 **Book:** [Learn Python the Biologist’s Way](https://a.co/d/0270IrIr)
+📘 <strong>Book:</strong> 
+<a href="https://a.co/d/0270IrIr" target="_blank" rel="noopener noreferrer">
+Learn Python the Biologist’s Way
+</a>
 ---
 
 ## 📌 Purpose
